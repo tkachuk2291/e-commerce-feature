@@ -99,6 +99,13 @@ cd frontEnd-e-commerce
 npm install
 ```
 
+1.2
+
+4. Create `.env` file:
+```env
+http://127.0.0.1:8000/ or server link it avaliable to
+```
+
 2.Start development server:
 ```bash
 npm run dev
