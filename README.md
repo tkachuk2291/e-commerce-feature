@@ -2,6 +2,19 @@
 # E-Commerce Feature Project
 ````
 
+
+DEMO:
+
+https://e-commerce-feature.onrender.com/ - BackEnd
+
+Example:
+https://e-commerce-feature.onrender.com/products
+https://e-commerce-feature.onrender.com/1
+
+Also deployed postgres:
+https://dashboard.render.com/d/dpg-d30n7t7diees7384nj30-a (back end fetch data for it db)
+
+FrontEnd in develop to deploy ...
 ```markdown
 ## Project Overview
 Full-stack e-commerce platform built with FastAPI and React.
